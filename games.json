@@ -1,0 +1,12 @@
+{
+  "comment": "Jogos da OwlGames. Lido pelos apps (Shared/Source/OwlMoreGames.pas): cada jogo esconde a si mesmo; jogos infantis só mostram os de audience kids. Campos: id, audience (kids|adult), name e subtitle {pt,en,es}, icon (URL do PNG, opcional), android (pacote na Google Play), ios (link da App Store, opcional). Jogo novo: acrescentar aqui depois de publicado e rodar Tools/publish_site.sh.",
+  "games": [
+    {
+      "id": "owliestoybox",
+      "audience": "kids",
+      "name": { "pt": "Owlie's Toy Box", "en": "Owlie's Toy Box", "es": "Owlie's Toy Box" },
+      "subtitle": { "pt": "Brinquedos relaxantes", "en": "Fidget toys & relax", "es": "Juguetes relajantes" },
+      "android": "com.owlgames.owliestoybox"
+    }
+  ]
+}
