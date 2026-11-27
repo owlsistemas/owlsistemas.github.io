@@ -6,6 +6,7 @@
       "audience": "kids",
       "name": { "pt": "Owlie's Toy Box", "en": "Owlie's Toy Box", "es": "Owlie's Toy Box" },
       "subtitle": { "pt": "Brinquedos relaxantes", "en": "Fidget toys & relax", "es": "Juguetes relajantes" },
+      "icon": "https://owlsistemas.github.io/icons/owliestoybox.png",
       "android": "com.owlgames.owliestoybox"
     }
   ]
